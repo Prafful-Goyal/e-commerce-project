@@ -1,11 +1,11 @@
 {
-  "homepages": "https://prafful-goyal.github.io/e-commerce-project",
+  "homepage": "https://prafful-goyal.github.io/e-commerce-project",
   "name": "your-app-name",
   "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
